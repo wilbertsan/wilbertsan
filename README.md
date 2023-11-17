@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wilbertsan/wilbertsan/blob/68798c8e111a591e70911fdc9e3efecf97a730f6/Banner_github.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I am technology enthusiast, focusing my development efforts in the Python world and process automation using <strong>Selenium</strong>. I'm student full stack developer, leveraging Flask in the backend and harnessing the power of <strong>Selenium and Python to automate processes</strong>, in addition to the fundamental trio <strong>(HTML, CSS, and JS)</strong>. <br><br> My journey involves the continuous exploration of new technologies and the creative application of this knowledge. I am always seeking challenges that allow me to enhance existing systems or create something entirely new, and it's incredible how Python and Selenium provide the ideal tools for these achievements. If there's a specific project or challenge you'd like to discuss or if you need additional information about Python development and automation with Selenium, I'm here to help!</p>&nbsp;
